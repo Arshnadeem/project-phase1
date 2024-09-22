@@ -1,0 +1,14 @@
+<----vh---->
+The size of the screen in terms of vh (viewport height) is a CSS unit that represents a percentage of the viewport's height. Here's how it works:
+
+1vh equals 1% of the viewport's height. So, if your screen height is 800 pixels, 1vh would be 8 pixels.
+100vh means 100% of the viewport height, so it will cover the entire height of the screen.
+
+<---- vw ---->
+vw (viewport width) is a CSS unit that represents a percentage of the viewport's width, similar to how vh works for height.
+
+1vw equals 1% of the viewport's width. So, if the screen width is 1200 pixels, 1vw would be 12 pixels.
+100vw covers the entire width of the viewport.
+
+<--- min height --->
+Whenever we provide minmum height to a element then its children are restricted to take any thing in %
